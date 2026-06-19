@@ -1,6 +1,6 @@
 # Quantum Sensors & Metrology Beyond the Standard Quantum Limit
 
-![Project Summary](figures/fig8_project_summary.png)
+![Project Summary](fig8_project_summary.png)
 
 **Simulation of quantum-enhanced metrology using squeezed states and Ramsey interferometry. 
 Models phase estimation precision scaling, atomic clock stability, and quantum noise spectra 
